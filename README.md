@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rania</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software engineer from Tunisia</h3>
 
-- 🔭 I’m currently working on **MERN Stack project**
+- 🔭 I’m currently working on **MERN Stack crowdfunding project**
 
 - 🌱 I’m currently learnin **Blockchain**
 
@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/raniamilouchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raniamilouchi" height="30" width="40" /></a>
 <a href="https://fb.com/rania milouchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rania milouchi" height="30" width="40" /></a>
 </p>
 
