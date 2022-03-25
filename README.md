@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Stack crowdfunding project**
 
-- 🌱 I’m currently learnin **Blockchain**
+- 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **rania.milouchi@esprit.tn**
 
