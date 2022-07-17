@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rania</h1>
 <h3 align="center">A passionate software engineer from Tunisia</h3>
 
-- 🔭 I’m currently working on **MERN Stack crowdfunding project**
-
-- 🌱 I’m currently learning **AI**
+- 🔭 I’m currently working on **MERN and MEAN Stack Project **
 
 - 📫 How to reach me **rania.milouchi@esprit.tn**
 
