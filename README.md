@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning  ** DevOps **
 
-- 📫 How to reach me **rania.milouchi@esprit.tn**
+- 📫 How to reach me **rania.milouchi.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
